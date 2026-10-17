@@ -1,7 +1,4 @@
 # Network-Engineering-SuperLab-Project
-My Network Project
-
-# Network Engineering SuperLab Project
 
 A collection of Cisco Packet Tracer SuperLab projects focused on network configuration, implementation, and troubleshooting.
 
